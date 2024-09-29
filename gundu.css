@@ -1,0 +1,53 @@
+*{
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    font-family:"Old Standard TT", serif;
+}
+
+h2{
+    font-family:"Old Standard TT", serif;  
+}
+
+.main{
+    font-family:"Old Standard TT", serif; 
+}
+#w{
+    background-color: indianred;
+    padding: 10px 5px 10px 5px;
+    border: 10px solid black;
+}
+#x{
+    background-color: #F7D1CD;
+    padding: 10px 5px 10px 5px;
+    border: 5px solid black;
+    margin: 5px;
+}
+
+#y{
+    background-color:#D6D6D6;
+    padding: 10px 5px 10px 5px;
+    border: 5px solid black;
+    margin: 0px 0px 5px 0px;
+}
+
+#z{
+    background-color: #735D78;
+    padding:50px 0px 50px 0px;
+    border: 5px solid black;
+}
+
+img{
+    height: 400px;
+}
+
+#venice{
+    color:aliceblue;
+    font-family:"Old Standard TT", serif; 
+}
+.abc{
+    font-weight: lighter;
+}
+
